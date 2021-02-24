@@ -1,2 +1,4 @@
 # UnityGame
-A Unity Game for diagnosing learning disabilities 
+Η ομάδα του Python Club του Γυμνασίου-Λυκείου "ΔΕΛΑΣΑΛ" συνέργαζονται 
+
+
